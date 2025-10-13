@@ -1,1 +1,1 @@
-console.log('Welcome to GIT');
+console.log('Welcome to GIT Tutorials');
